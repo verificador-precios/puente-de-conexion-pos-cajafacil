@@ -428,4 +428,4 @@ Para desinstalar la aplicación en `Windows`:
 
 ## Disclaimer
 
-- Caja Fácil® y todos sus logotipos son marcas registradas de cajafacil.com.
+- Caja Fácil® y todos sus logotipos son marcas registradas de **cajafacil.com**
