@@ -390,7 +390,6 @@ Si la aplicación no funciona como esperaba, revise estos casos comunes:
 
 - Verifique que la `Carpeta de instalación` corresponda al equipo correcto.
 - Confirme que `Caja Fácil®` siga instalado en la ruta configurada.
-- Revise que el `Host` sea `127.0.0.1`.
 - Revise que el `Puerto` sea `3310`.
 - Revise que el `Usuario` sea `ODBC`.
 - Revise que el `Nombre de la base de datos` sea `rpv`.
