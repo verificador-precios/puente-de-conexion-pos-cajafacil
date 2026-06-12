@@ -181,6 +181,10 @@ Cuando la comunicación con el punto de venta se establezca correctamente, la ap
 
 ## Configuración de la aplicación
 
+<p align="center">
+  <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1781228538/assets/proyecto-verificador-precios/bridge-libp2p/cajafacil/cajafacil-app-config.png" width="720" alt="Ejemplo de la pantalla de configuración de la aplicación en Caja Facil puente de conexión POS">
+</p>
+
 ### Cómo abrir la configuración
 
 1. Abra `Caja Facil puente de conexión POS`.
