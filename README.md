@@ -173,7 +173,7 @@ Si necesita actualizar manualmente, descargue e instale la versión más recient
 
 ## Primer uso
 
-Al abrir la aplicación por primera vez, se intentará establecer la conexión con el punto de venta usando los datos predeterminados de la instalación de `CajaFacil®`.
+Al abrir la aplicación por primera vez, se intentará establecer la conexión con el punto de venta de manera automática usando los datos predeterminados de la instalación de `CajaFacil®`.
 
 El formulario de conexión también cargará esos mismos datos para que pueda cambiarlos si es necesario.
 
@@ -229,7 +229,7 @@ La aplicación está preparada para conectarse al punto de venta `Caja Fácil®`
 
 La aplicación usa credenciales predeterminadas de acceso al punto de venta para intentar la conexión inicial.
 
-Valores habituales:
+Valores predeterminados:
 
 - Puerto: `3310`
 - Usuario: `ODBC`
