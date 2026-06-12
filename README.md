@@ -158,7 +158,7 @@ La búsqueda de actualizaciones se ejecuta automáticamente en las versiones emp
 Flujo esperado:
 
 1. Abra la aplicación.
-2. Aproximadamente `15 segundos` después de abrirla, la aplicación buscará una versión nueva en segundo plano.
+2. Después de un tiempo, la aplicación buscará una versión nueva en segundo plano.
 3. Si existe una actualización disponible, la aplicación comenzará la descarga automáticamente.
 4. Cuando la descarga finalice, la aplicación mostrará un aviso indicando que la nueva versión quedó lista para instalarse.
 5. Al cerrar la aplicación, se iniciará la instalación de la actualización descargada.
