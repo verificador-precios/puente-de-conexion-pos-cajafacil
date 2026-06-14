@@ -240,7 +240,7 @@ Valores predeterminados:
 - Nombre de la base de datos: `rpv`
 - Carpeta de instalación: `C:\CajaFacil`
 
-### Cómo revisar la configuración
+### Cómo ajustar la configuración
 
 1. Abra `Caja Facil puente de conexión POS`.
 2. Revise que la `Carpeta de instalación` apunte a la carpeta donde está instalado `Caja Fácil®`.
@@ -253,9 +253,9 @@ Valores predeterminados:
   <img src="https://res.cloudinary.com/xadani-mexico/image/upload/v1781228539/assets/proyecto-verificador-precios/bridge-libp2p/cajafacil/cajafacil-db-config-form.png" width="520" alt="Ejemplo del formulario de conexión del puente de conexión POS">
 </p>
 
-### Cuándo revisar la carpeta de instalación
+### Cuándo ajustar la carpeta de instalación
 
-Revise la `Carpeta de instalación` en estos casos:
+Ajuste la `Carpeta de instalación` en estos casos:
 
 - Si `Caja Fácil®` fue instalado en una ubicación distinta a `C:\CajaFacil`.
 - Si la aplicación no logra encontrar los componentes necesarios para conectarse.
@@ -264,8 +264,8 @@ Revise la `Carpeta de instalación` en estos casos:
 ### Recomendaciones
 
 - Mantenga abierta la aplicación mientras use `Verificador de Precios`.
-- Si la conexión falla, revise `Host`, `Puerto`, `Usuario`, `Nombre de la base de datos` y `Carpeta de instalación`.
-- Si `Caja Fácil®` fue instalado en una ruta personalizada, actualice primero la `Carpeta de instalación`.
+- Si la conexión falla, revise `Puerto`, `Usuario`, `Nombre de la base de datos` y `Carpeta de instalación`.
+- Si `Caja Fácil®` fue instalado en una ruta personalizada, actualice primero la `Carpeta de instalación` a la ruta usada.
 
 ## Emparejar con el software Verificador de Precios usando el Asistente
 
